@@ -1,4 +1,4 @@
-# Pokemon Display App
+# Pokemon App
 This app is designed to display information about different Pokemons using the Pokemon API. It is built using Java.
 
 ## Installation
