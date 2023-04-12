@@ -12,3 +12,6 @@ This app has the following features:
 
 - Display a list of Pokemons
 - View detailed information about each Pokemon
+
+## API link 
+https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json
